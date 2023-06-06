@@ -54,7 +54,3 @@ Contributions are always welcome! Please read the [contribution guidelines](./CO
 ## License
 
 [MIT](./LICENSE)
-
-```
-You will have to create the demo image, contribution guidelines, and license file yourself. For the demo image, take a screenshot of the plugin in action and place it in the same directory as your README file, then replace `./demo.png` with the path to your image.
-```
